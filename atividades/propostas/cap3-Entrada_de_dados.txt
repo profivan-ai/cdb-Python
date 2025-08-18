@@ -1,0 +1,13 @@
+Resolver os exercicios abaixo:
+
+
+1) Receba dois numeros tipo INTEIROS. Faça as quatros operações aritmeticas (calculo e impressão). 
+  Calcule e imprima a média tambem.
+
+2) Recebe um numero tipo FLOAT e o elevador(2,3,4..). 
+   Imprima o valor do numero elevado . ex: 2^3
+
+3) Receba um numero tipo FLOAT. 
+   Imprima sua Raiz Quadrada.  Ex: 81 -> 9
+
+  
