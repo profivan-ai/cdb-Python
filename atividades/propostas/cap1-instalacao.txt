@@ -1,0 +1,21 @@
+Responda as questões:
+
+1) O que é uma linguagem de Alto Nivel ?
+
+  
+2) Quais foram os objetivos do Guido Van Rossum quando da criação da linguagem ?
+
+
+3) O que seria "ZEN" do Python e quais são seus principios ?
+
+  
+4) O que posso fazer com Python ? Cite ao menos três possibilidades
+
+
+5) Qual(s) motivo(s) que explicam a "AUMENTO" no uso do Python atualmente ?
+
+
+6) Como saber se tenho Python instalado e sua versão ?
+
+
+7) Qual extensão permite no VSCODE rodar um bloco de codigo tipo Colab ?
