@@ -1,13 +1,19 @@
 Resolver os exercicios abaixo:
 
+1) Receba dois numeros tipo INTEIROS em variaveis Var_N1 e Var_N2. 
+   Imprima as contas com as quatros operações aritmeticas (calculo e impressão). 
+   Aproveite e calcule e imprima a média tambem.
 
-1) Receba dois numeros tipo INTEIROS. Faça as quatros operações aritmeticas (calculo e impressão). 
-  Calcule e imprima a média tambem.
 
-2) Recebe um numero tipo FLOAT e o elevador(2,3,4..). 
-   Imprima o valor do numero elevado . ex: 2^3
+2) Recebe um numero tipo FLOAT em variavel Var_NF e o elevador(2,3,4..) em variavel Var_Elev. 
+   Imprima o valor do numero elevado. ex: 2^3.
 
-3) Receba um numero tipo FLOAT. 
-   Imprima sua Raiz Quadrada.  Ex: 81 -> 9
+3) Receba um numero tipo FLOAT em variavel Var_Num. 
+   Imprima sua Raiz Quadrada. Ex: 81 -> 9
+
+  
+4) Receba dois numeros tipo INTEIROS em variaveis Var_A e Var_B.
+   Imprima qual das duas recebeu o maior valor (sem usar o comando IF, apenas com print)
+
 
   
