@@ -1,0 +1,75 @@
+IF/ELSE
+  
+1) Receba um numero tipo INTEIRO em variavel var_Num
+   Imprima se é um numero PAR ou IMPAR.
+
+  
+2) Receba o ano de nascimento de uma pessoa em variavel var_ano
+   Calcule a idade atual (em anos).
+
+   Use a tabela abaixo para mostrar a classificação
+   0 a 12: Criança
+   13 a 17: Adolescente
+   18 a 59: Adulto
+   60+: Idoso
+
+3) Receba dois numeros tipo INTEIROS em variaveis Var_A e Var_B.
+   Imprima qual das duas recebeu o maior valor ou se são iguais.
+
+4) Receba dois numeros tipo INTEIROS em variaveis Var_A e Var_B e uma operação (+, -, *, /) em uma variavel var_Oper
+   Calcule e exiba o resultado baseado na operação.
+
+
+5) Receba uma senha ao usuário em variavel var_Senha. 
+   Se for igual a "cdb123", mostre "Acesso permitido". 
+    Senão, mostre "Senha incorreta".
+    PS: Se puder, trate o case sensitive.
+
+6) Receba um CPF (somente os números, sem pontos ou traços) em variavel var_CPF
+   Verifique se tem exatamente 11 dígitos NUMÉRICOS.
+   Imprimir:
+    "CPF válido" se estiver correto.
+    "CPF inválido" se estiver incorreto.
+    PS: Pode usar len() e isdigit().
+
+
+FOR/WHILE
+
+1) Receba um número inicial e final. (usar For)
+   Para cada número nesse intervalo, mostre sua tabuada de 1 a 10 usando For.
+    Ps: For dentro do For..
+
+2) Monte um programa que conte (imprima) de 10 até 1 com for, e depois repita o mesmo com while.
+
+
+3) Receba do usuário uma senha. (usar while)
+    Enquanto a senha digitada for diferente de "cdb123", o programa deve exibir      
+       "Senha incorreta, tente novamente.".
+    Quando a senha correta for digitada, mostre "Acesso permitido." e saia do loop
+
+
+4) Receba do usuario um valor de capital na variavel var_Capital, um periodo em meses na variavel var_Meses e uma taxa de valorização na variavel var_Taxa.
+   Calcular e mostrar ao final o valor atualizado do capital.
+
+   Ex: Capital    = 1500.00
+       Meses      = 06
+       Taxa       = 0.10
+       Atualizado =  2657.34
+
+   Ps: Aqui dá para fazer com WHILE ou somente fórmula.
+       Sugiro testar com os dois jeitos.
+
+
+
+5) Considerar o codigo da aula :
+   empresa = "escola@gmail.com"
+   for letra in(empresa):
+     if letra == "@":
+        print("-----------")
+     else:
+         print (letra)
+
+  5.1)  Contar e mostrar quantas vezes foi encontrada a letra "a".
+  5.2)  Receber a empresa com input (não deixar fixo).
+  5.3)  Separar usuario do dominio e mostrar usuario com asterico no lugar das letras.
+        PS: aqui pode usar split() para separar ,tentar fazer no loop mesmo ou usar formula para mascarar nome .
