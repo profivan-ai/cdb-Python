@@ -3,10 +3,10 @@
 
 
 2) Recebe um numero tipo FLOAT em variavel Var_NF e o elevador(2,3,4..) em variavel Var_Elev. 
-   Imprima o valor do numero elevado
+   Imprima o valor do numero elevado. ex: 2^3.
 
 3) Receba um numero tipo FLOAT em variavel Var_Num. 
-   Imprima sua Raiz Quadrada.
+   Imprima sua Raiz Quadrada. Ex: 81 -> 9
 
   
 4) Receba dois numeros tipo INTEIROS em variaveis Var_A e Var_B.
