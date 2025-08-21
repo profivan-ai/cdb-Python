@@ -14,3 +14,5 @@ Na prática, o SQL segue uma sequência própria para processar cada consulta:
 🔢 9. LIMIT – Restringe a quantidade final de linhas exibidas
 
 💡 Conhecer essa ordem de execução ajuda a montar queries mais claras, performáticas e a evitar erros comuns.
+
+<img src=![Image](https://github.com/user-attachments/assets/d9b599be-a4e3-47ff-a1ac-0f8dcd563957)>
