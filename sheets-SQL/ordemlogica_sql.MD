@@ -15,6 +15,5 @@ Na prática, o SQL segue uma sequência própria para processar cada consulta:
 
 💡 Conhecer essa ordem de execução ajuda a montar queries mais claras, performáticas e a evitar erros comuns.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/61749551-9e57-40d5-b27b-1b0cb6832b39">
-</div>
+<img src="https://github.com/user-attachments/assets/61749551-9e57-40d5-b27b-1b0cb6832b39">
+
