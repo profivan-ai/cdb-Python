@@ -10,4 +10,4 @@ Se você trabalha com dados, dominar os comandos SQL é essencial. Criar um mapa
 
 Este mapa é uma ótima referência para quem quer dominar o SQL de forma prática e organizada.
 
-<ims src=https://github.com/user-attachments/assets/b7d940e5-baef-4e00-82ea-f35616643440"">
+<ims src="https://github.com/user-attachments/assets/b7d940e5-baef-4e00-82ea-f35616643440">
