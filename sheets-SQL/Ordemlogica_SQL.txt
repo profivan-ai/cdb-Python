@@ -1,0 +1,16 @@
+📝 A lógica por trás da execução das queries SQL
+Muita gente acha que o banco lê uma query exatamente na ordem em que foi escrita, mas não é assim que funciona.
+
+Na prática, o SQL segue uma sequência própria para processar cada consulta:
+
+🔍 1. FROM – Identifica de quais tabelas os dados virão
+🔗 2. JOIN – Conecta tabelas com base em chaves ou relações
+🔑 3. ON – Define as condições para unir os dados
+🗂️ 4. WHERE – Aplica filtros nas linhas antes da agregação
+📊 5. GROUP BY – Agrupa registros em conjuntos
+📝 6. HAVING – Filtra os grupos após a agregação
+📋 7. SELECT – Determina quais colunas serão retornadas
+🗂️ 8. ORDER BY – Organiza os resultados
+🔢 9. LIMIT – Restringe a quantidade final de linhas exibidas
+
+💡 Conhecer essa ordem de execução ajuda a montar queries mais claras, performáticas e a evitar erros comuns.
