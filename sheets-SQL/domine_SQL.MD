@@ -10,4 +10,4 @@ Se você trabalha com dados, sabe que SQL (Structured Query Language) é uma das
 
 🔥 Este Cheat Sheet resume os principais comandos que todo analista, cientista de dados ou dev precisa ter na ponta da língua!
   
-<img src="https://github.com/user-attachments/assets/68d233de-0afa-494b-b3d8-2f5ec16dc5bd"
+<img src="https://github.com/user-attachments/assets/68d233de-0afa-494b-b3d8-2f5ec16dc5bd">
